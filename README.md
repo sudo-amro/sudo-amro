@@ -11,7 +11,7 @@
 [![Website](https://img.shields.io/badge/🌍%20Website-1f6feb?style=for-the-badge)](https://amro.int.yt)
 [![Donate](https://img.shields.io/badge/❤️%20Donate-EA4AAA?style=for-the-badge)](https://donate.amro.int.yt)
 [![Email](https://img.shields.io/badge/📧%20Email-555555?style=for-the-badge)](mailto:contact@amro.int.yt)
-[![Discord](https://img.shields.io/badge/💬%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](javascript:alert('coming soon'))
+[![Discord](https://img.shields.io/badge/💬%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://search.brave.com/search?q=coming+soon&summary=1&conversation=094fab27ada29d9db96535dadf8d0007fa10)
 
 </div>
 
