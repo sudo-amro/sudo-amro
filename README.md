@@ -10,8 +10,8 @@
 
 [![Website](https://img.shields.io/badge/🌍%20Website-1f6feb?style=for-the-badge)](https://amro.int.yt)
 [![Donate](https://img.shields.io/badge/❤️%20Donate-EA4AAA?style=for-the-badge)](https://donate.amro.int.yt)
-[![Email](https://img.shields.io/badge/📧%20Email-555555?style=for-the-badge)](mailto:YOUR_EMAIL)
-[![Discord](https://img.shields.io/badge/💬%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE)
+[![Email](https://img.shields.io/badge/📧%20Email-555555?style=for-the-badge)](mailto:contact@amro.int.yt)
+[![Discord](https://img.shields.io/badge/💬%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](javascript:alert('coming soon'))
 
 </div>
 
