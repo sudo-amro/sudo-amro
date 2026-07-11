@@ -24,7 +24,7 @@ If you enjoy my projects, consider supporting me ❤️
 🛠️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,java,kotlin,androidstudio,firebase,mysql,mongodb,git,github,linux,vscode"/> </p>
 📊 GitHub Stats
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/> </p>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=sudo-amro&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-amro&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudo-amro&theme=tokyonight&hide_border=true"/> </p>
 📈 Activity Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/> </p>
 🏆 GitHub Trophies
@@ -33,7 +33,7 @@ If you enjoy my projects, consider supporting me ❤️
 
 Requires a GitHub Action.
 
-<p align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/sudo-amro/sudo-amro/output/github-contribution-grid-snake-dark.svg"/> </p>
 🎮 Mini Game
 ████████████████████████
 
@@ -72,7 +72,7 @@ Can you find the shortest path?
 🚀 I enjoy learning new technologies.
 🐛 Every fixed bug creates another one.
 👀 Visitors
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sudo-amro&style=for-the-badge&color=blueviolet"/> </p>
 ⚡ Current Status
 ██████████████████████████
 
