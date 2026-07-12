@@ -81,18 +81,6 @@
 
 ---
 
-## 🎵 Currently Listening To
-
-<p align="center">
-
-<a href="https://spotify-github-profile.kittinanx.com">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true"/>
-
-</a>
-
-</p>
-
----
 
 ## 🎉 Fun Facts
 
