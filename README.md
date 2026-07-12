@@ -41,13 +41,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sudo-amro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-amro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</p>
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=sudo-amro)](https://www.readmecodegen.com/custom-github-card-generator)
 
 ---
 
@@ -61,23 +55,22 @@
 
 ---
 
-## 📺 Latest Videos
+## My Channels
 
 <!-- Replace PLAYLIST_ID with your uploads playlist -->
 
 <p align="center">
 
-<a href="https://www.youtube.com/@YOURCHANNEL">
+<a href="https://www.youtube.com/@ByteXTech">
 <img src="https://img.shields.io/badge/▶️%20Tech%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="https://www.youtube.com/@YOURCODINGCHANNEL">
+<a href="https://www.youtube.com/@ByteDev.mp4">
 <img src="https://img.shields.io/badge/💻%20Coding%20Channel-282828?style=for-the-badge&logo=youtube"/>
 </a>
 
 </p>
 
-> *(Optional: these can be updated automatically with GitHub Actions.)*
 
 ---
 
