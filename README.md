@@ -27,6 +27,10 @@
 - 🌙 Most projects begin after midnight
 - 🚀 Always building something new
 
+## Career
+- School
+- Working at ExoDuck
+
 ---
 
 ## 🛠 Tech Stack
